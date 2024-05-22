@@ -1,4 +1,4 @@
-# Personal Project 
+# Lending Club Keras Project - Personal Project 
 ____
 **Ainul Marzuki Febri**
 
