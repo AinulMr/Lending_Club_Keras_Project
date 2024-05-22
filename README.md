@@ -1,4 +1,4 @@
-# Lending Club Keras Project - Personal Project 
+# Lending Club - TensorFlow Keras Project
 ____
 **Ainul Marzuki Febri**
 
